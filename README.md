@@ -1,5 +1,8 @@
-h1. VerticalCue Design
-h2. FlashDevelop 4 - Color Schemes
+VerticalCue Design
+==================
+
+FlashDevelop 4 - Color Schemes
+------------------------------
 
 Currently only the following formats have the color scheme assigned to them:
  * AS2
